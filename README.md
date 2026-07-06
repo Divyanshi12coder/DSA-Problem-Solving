@@ -13,3 +13,15 @@ It is designed to help learners and developers **practice, revise, and master DS
 ---
 
 ## 📂 Repository Structure
+📦 DSA-Problem-Solving
+┣ 📁 Arrays
+┣ 📁 Strings
+┣ 📁 LinkedList
+┣ 📁 Stacks
+┣ 📁 Queues
+┣ 📁 Trees
+┣ 📁 Graphs
+┣ 📁 DynamicProgramming
+┣ 📁 Sorting
+┣ 📁 Searching
+┗ 📄 README.md
