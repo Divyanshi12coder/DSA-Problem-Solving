@@ -25,3 +25,41 @@ It is designed to help learners and developers **practice, revise, and master DS
 ┣ 📁 Sorting
 ┣ 📁 Searching
 ┗ 📄 README.md
+
+
+---
+
+## 🚀 Features
+- ✅ Stepwise solutions (Brute Force → Optimized)
+- ✅ Clean, beginner-friendly explanations
+- ✅ Multiple languages (Python, C++, Java)
+- ✅ Ready-to-run code snippets
+- ✅ Interview-focused problem sets
+
+---
+
+## 🛠️ Setup & Usage
+Clone the repository:
+```bash
+git clone https://github.com/YourUsername/DSA-Problem-Solving.git
+cd DSA-Problem-Solving
+Run a Python solution:
+python arrays/two_sum.py
+
+---
+
+📖 Topics Covered
+Arrays & Strings
+
+Linked List
+
+Stack & Queue
+
+Trees & Graphs
+
+Recursion & Backtracking
+
+Dynamic Programming
+
+Searching & Sorting
+
