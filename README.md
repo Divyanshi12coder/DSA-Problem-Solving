@@ -38,6 +38,26 @@ It is designed to help learners and developers **practice, revise, and master DS
 
 ---
 
+🤝 Contributing
+Contributions are welcome!
+
+Fork the repo
+
+Create a new branch (feature-new-problem)
+
+Commit your changes
+
+Open a Pull Request
+
+📜 License
+This project is licensed under the MIT License.
+
+⭐ Support
+If you find this repo helpful, don’t forget to star ⭐ the repository and share it with fellow learners!
+
+---
+
+
 ## 🛠️ Setup & Usage
 Clone the repository:
 ```bash
@@ -62,4 +82,5 @@ Recursion & Backtracking
 Dynamic Programming
 
 Searching & Sorting
+
 
