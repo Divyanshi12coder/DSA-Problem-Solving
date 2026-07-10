@@ -13,7 +13,7 @@ It is designed to help learners and developers **practice, revise, and master DS
 ---
 
 ## 📂 Repository Structure
-📦 DSA-Problem-Solving
+📦 DSA-Problem-Solving 
 ┣ 📁 Arrays
 ┣ 📁 Strings
 ┣ 📁 LinkedList
