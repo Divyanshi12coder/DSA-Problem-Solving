@@ -1,86 +1,262 @@
-# 🧩 DSA Problem Solving
+<div align="center">
 
-![Repo Banner](https://img.shields.io/badge/DSA-Problem%20Solving-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)
+# 💻 Data Structures & Algorithms
 
----
+### Problem Solving • Competitive Programming • Interview Preparation
 
-## 📌 Overview
-This repository is a **collection of Data Structures and Algorithms problems** solved in multiple ways (brute force, optimized, recursive, iterative).  
-It is designed to help learners and developers **practice, revise, and master DSA concepts** for interviews, competitive programming, and academic preparation.
+<p>
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📂 Repository Structure
-📦 DSA-Problem-Solving 
-┣ 📁 Arrays
-┣ 📁 Strings
-┣ 📁 LinkedList
-┣ 📁 Stacks
-┣ 📁 Queues
-┣ 📁 Trees
-┣ 📁 Graphs
-┣ 📁 DynamicProgramming
-┣ 📁 Sorting
-┣ 📁 Searching
-┗ 📄 README.md
+</p>
 
+<p>
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Divyanshi12coder/DSA-Problem-Solving?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Divyanshi12coder/DSA-Problem-Solving?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Divyanshi12coder/DSA-Problem-Solving?style=for-the-badge)
+
+</p>
+
+</div>
 
 ---
 
-## 🚀 Features
-- ✅ Stepwise solutions (Brute Force → Optimized)
-- ✅ Clean, beginner-friendly explanations
-- ✅ Multiple languages (Python, C++, Java)
-- ✅ Ready-to-run code snippets
-- ✅ Interview-focused problem sets
+# 📌 Overview
+
+Welcome to my **Data Structures & Algorithms (DSA)** repository.
+
+This repository contains my solutions to algorithmic and coding interview problems, implemented with a strong focus on **correctness, efficiency, clean code, and optimization**.
+
+The goal of this repository is to strengthen problem-solving abilities, master fundamental computer science concepts, and prepare for technical interviews and competitive programming.
 
 ---
 
-🤝 Contributing
-Contributions are welcome!
+# 🎯 Objectives
 
-Fork the repo
-
-Create a new branch (feature-new-problem)
-
-Commit your changes
-
-Open a Pull Request
-
-📜 License
-This project is licensed under the MIT License.
-
-⭐ Support
-If you find this repo helpful, don’t forget to star ⭐ the repository and share it with fellow learners!
+- Master core Data Structures
+- Strengthen Algorithm Design
+- Improve Problem-Solving Skills
+- Optimize Time & Space Complexity
+- Prepare for Technical Interviews
+- Build Consistent Coding Practice
+- Develop Analytical Thinking
 
 ---
 
+# 🚀 Skills Demonstrated
 
-## 🛠️ Setup & Usage
-Clone the repository:
-```bash
-git clone https://github.com/YourUsername/DSA-Problem-Solving.git
-cd DSA-Problem-Solving
-Run a Python solution:
-python arrays/two_sum.py
+- Problem Solving
+- Algorithm Design
+- Time Complexity Analysis
+- Space Optimization
+- Logical Reasoning
+- Competitive Programming
+- Interview Preparation
+- Clean Code Practices
+- Computational Thinking
 
 ---
 
-📖 Topics Covered
-Arrays & Strings
+# 🛠 Languages Used
 
-Linked List
+- C++
+- Python
 
-Stack & Queue
+---
 
-Trees & Graphs
+# 📂 Repository Structure
 
-Recursion & Backtracking
+```
+Data-Structures-and-Algorithms/
+│
+├── Arrays/
+├── Strings/
+├── Linked Lists/
+├── Stacks/
+├── Queues/
+├── Trees/
+├── Binary Search Trees/
+├── Heaps/
+├── Hashing/
+├── Graphs/
+├── Greedy/
+├── Recursion/
+├── Backtracking/
+├── Dynamic Programming/
+├── Bit Manipulation/
+├── Sliding Window/
+├── Binary Search/
+├── Two Pointers/
+├── Mathematical Problems/
+├── LICENSE/
+└── README.md/
+```
 
-Dynamic Programming
+---
 
-Searching & Sorting
+# 📖 Topics Covered
 
+## Fundamental Data Structures
 
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Hash Tables
+- Trees
+- Binary Search Trees
+- Heaps
+- Graphs
+
+---
+
+## Algorithms
+
+- Sorting
+- Searching
+- Binary Search
+- Recursion
+- Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+- Divide & Conquer
+- Graph Traversal (BFS & DFS)
+- Shortest Path Algorithms
+- Sliding Window
+- Two Pointers
+- Prefix Sum
+- Bit Manipulation
+
+---
+
+# 📈 Problem Solving Workflow
+
+```
+Understand Problem
+        │
+        ▼
+Analyze Constraints
+        │
+        ▼
+Choose Data Structure
+        │
+        ▼
+Design Algorithm
+        │
+        ▼
+Implement Solution
+        │
+        ▼
+Test Edge Cases
+        │
+        ▼
+Optimize Complexity
+```
+
+---
+
+# ⚡ Focus Areas
+
+- Clean & Readable Code
+- Efficient Algorithms
+- Edge Case Handling
+- Time Complexity Optimization
+- Space Complexity Optimization
+- Interview-Oriented Solutions
+
+---
+
+# 🌟 Highlights
+
+✅ Well-Organized Solutions
+
+✅ Optimized Algorithms
+
+✅ Interview-Focused Problems
+
+✅ Consistent Coding Practice
+
+✅ Clean Code Structure
+
+✅ Algorithmic Thinking
+
+---
+
+# 📚 Learning Outcomes
+
+Through solving these problems, I continue to improve:
+
+- Logical Thinking
+- Algorithm Design
+- Coding Efficiency
+- Debugging Skills
+- Complexity Analysis
+- Pattern Recognition
+- Software Engineering Fundamentals
+
+---
+
+# 💼 Technical Skills
+
+| Skill | Status |
+|--------|--------|
+| Data Structures | ✅ |
+| Algorithms | ✅ |
+| Problem Solving | ✅ |
+| Competitive Programming | ✅ |
+| Complexity Analysis | ✅ |
+| Optimization | ✅ |
+| Clean Coding | ✅ |
+
+---
+
+# 🎯 Platforms
+
+Problems in this repository are practiced from platforms such as:
+
+- LeetCode
+- HackerRank
+- CodeChef
+- Codeforces
+- GeeksforGeeks
+- InterviewBit
+
+> *Include only the platforms you actually use.*
+
+---
+
+# 👩‍💻 Author
+
+## Divyanshi
+
+**B.Tech in Artificial Intelligence**
+
+### Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Competitive Programming
+- Software Development
+- Problem Solving
+
+---
+
+# ⭐ Support
+
+If you found this repository useful, consider giving it a ⭐.
+
+It motivates me to continue learning and sharing my progress.
+
+---
+
+<div align="center">
+
+## 🚀 "Every problem solved is one step closer to becoming a better engineer."
+
+**Thank you for visiting!**
+
+</div>
